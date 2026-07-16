@@ -37,6 +37,13 @@ h1 {
     margin-top: 25px;
 }
 
+#lastUpdated {
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 18px;
+}
+
 .product {
     display: flex;
     justify-content: space-between;

@@ -1,5 +1,7 @@
 from pathlib import Path
 import pandas as pd
+import json
+from datetime import datetime
 
 # A frissites.py mappája
 BASE_DIR = Path(__file__).resolve().parent
@@ -23,12 +25,17 @@ df = df.rename(columns={
 # Hiányzó cikkszámok kezelése
 df["cikkszam"] = df["cikkszam"].fillna("").astype(str)
 
-# JSON mentése
-df.to_json(
-    DATA_DIR / "keszlet.json",
-    orient="records",
-    force_ascii=False,
-    indent=4
-)
+# Termékek listája
+products = df.to_dict(orient="records")
 
-print(f"{len(df)} termék exportálva.")
+# JSON összeállítása
+output = {
+    "lastUpdated": datetime.now().strftime("%Y.%m.%d. %H:%M"),
+    "products": products
+}
+
+# Mentés
+with open(DATA_DIR / "keszlet.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, ensure_ascii=False, indent=4)
+
+print(f"{len(products)} termék exportálva.")

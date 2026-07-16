@@ -1,6 +1,7 @@
 const searchInput = document.getElementById("searchInput");
 const results = document.getElementById("results");
 const resultCount = document.getElementById("resultCount");
+const lastUpdated = document.getElementById("lastUpdated");
 
 let products = [];
 
@@ -8,14 +9,17 @@ let products = [];
 async function loadProducts() {
 
     const response = await fetch("data/keszlet.json");
+    const data = await response.json();
 
-    products = await response.json();
+    products = data.products;
+
+    lastUpdated.textContent =
+        `Frissítve: ${data.lastUpdated}`;
 
     // Kereshető szöveg előre elkészítése
     products.forEach(product => {
-        product.searchText = (
-            product.nev + " " + product.cikkszam
-        ).toLowerCase();
+        product.searchText =
+            (product.nev + " " + product.cikkszam).toLowerCase();
     });
 
     results.innerHTML = `
