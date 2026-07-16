@@ -10,11 +10,20 @@ async function loadProducts() {
 
     products = await response.json();
 
-    displayProducts(products);
+    // Kereshető szöveg előre elkészítése
+    products.forEach(product => {
+        product.searchText = (
+            product.nev + " " + product.cikkszam
+        ).toLowerCase();
+    });
 
-    // Automatikusan a keresőbe kerül a kurzor
+    results.innerHTML = `
+        <div class="no-results">
+            🔍 Kezdd el beírni a termék nevét vagy cikkszámát.
+        </div>
+    `;
+
     searchInput.focus();
-
 }
 
 // Megjelenítés
@@ -33,15 +42,22 @@ function displayProducts(productList) {
         return;
     }
 
+    let html = "";
+
     for (const product of productList) {
 
         const stock = Number(product.keszlet);
 
-        const stockClass = stock <= 0
-            ? "stock stock-empty"
-            : "stock";
+        let stockClass = "stock";
 
-        results.innerHTML += `
+        if (stock <= 0) {
+            stockClass += " stock-empty";
+        }
+        else if (stock <= 5) {
+            stockClass += " stock-low";
+        }
+
+        html += `
             <div class="product">
 
                 <div class="product-left">
@@ -64,10 +80,14 @@ function displayProducts(productList) {
         `;
     }
 
+    results.innerHTML = html;
+
 }
 
 // Keresés
 function searchProducts(searchText) {
+
+    console.time("Keresés");
 
     const words = searchText
         .toLowerCase()
@@ -75,17 +95,27 @@ function searchProducts(searchText) {
         .split(/\s+/)
         .filter(word => word !== "");
 
-    const filteredProducts = products.filter(product => {
+    // Ha üres a keresőmező
+    if (words.length === 0) {
 
-        const searchableText = (
-            product.nev + " " + product.cikkszam
-        ).toLowerCase();
+        results.innerHTML = `
+            <div class="no-results">
+                🔍 Kezdd el beírni a termék nevét vagy cikkszámát.
+            </div>
+        `;
 
-        return words.every(word => searchableText.includes(word));
+        console.timeEnd("Keresés");
+        return;
+    }
 
-    });
+    const filteredProducts = products.filter(product =>
+        words.every(word => product.searchText.includes(word))
+    );
 
-    displayProducts(filteredProducts);
+    // Maximum 50 találat megjelenítése
+    displayProducts(filteredProducts.slice(0, 50));
+
+    console.timeEnd("Keresés");
 
 }
 

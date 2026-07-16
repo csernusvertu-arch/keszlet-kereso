@@ -1,8 +1,14 @@
-import json
+from pathlib import Path
 import pandas as pd
 
+# A frissites.py mappája
+BASE_DIR = Path(__file__).resolve().parent
+
+# A data mappa
+DATA_DIR = BASE_DIR.parent / "data"
+
 # Excel beolvasása
-df = pd.read_excel("../data/keszlet.xls")
+df = pd.read_excel(DATA_DIR / "keszlet.xls")
 
 # Csak a szükséges oszlopok
 df = df[["Megnevezés", "Cikkszám", "Készlet"]]
@@ -19,7 +25,7 @@ df["cikkszam"] = df["cikkszam"].fillna("").astype(str)
 
 # JSON mentése
 df.to_json(
-    "../data/keszlet.json",
+    DATA_DIR / "keszlet.json",
     orient="records",
     force_ascii=False,
     indent=4
