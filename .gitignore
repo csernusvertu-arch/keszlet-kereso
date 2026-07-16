@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python virtual environment (ha később lesz)
+.venv/
+venv/
+env/
