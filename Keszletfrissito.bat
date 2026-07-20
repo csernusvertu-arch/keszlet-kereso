@@ -32,6 +32,13 @@ git commit -m "Update inventory"
 
 git push
 
+if errorlevel 1 (
+    echo.
+    echo HIBA: A GitHub feltoltes sikertelen.
+    pause
+    exit /b
+)
+
 echo.
 echo =====================================
 echo Keszlet sikeresen frissitve!
