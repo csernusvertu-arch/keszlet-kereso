@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026.07.20. 13:23",
+    "lastUpdated": "2026.07.20. 13:49",
     "products": [
         {
             "nev": "1327 kszürke POC nadrág 26",
@@ -1044,12 +1044,12 @@
         {
             "nev": "1751 fekete slim L öltöny 50",
             "cikkszam": "JP100574Ö0L050FEK",
-            "keszlet": 12
+            "keszlet": 11
         },
         {
             "nev": "1751 fekete slim L öltöny 52",
             "cikkszam": "JP100574Ö0L052FEK",
-            "keszlet": 7
+            "keszlet": 6
         },
         {
             "nev": "1751 fekete slim L öltöny 54",
@@ -2059,7 +2059,7 @@
         {
             "nev": "1751 vkék POC öltöny 27",
             "cikkszam": "JP100574Ö0P027VKÉ",
-            "keszlet": 26
+            "keszlet": 25
         },
         {
             "nev": "1751 vkék POC öltöny 28",
@@ -2074,7 +2074,7 @@
         {
             "nev": "1751 vkék POC öltöny 30",
             "cikkszam": "JP100574Ö0P030VKÉ",
-            "keszlet": 12
+            "keszlet": 11
         },
         {
             "nev": "1751 vkék POC öltöny 31",
@@ -6932,6 +6932,11 @@
             "keszlet": 1
         },
         {
+            "nev": "601135 bézs C4 slim L mellény 62",
+            "cikkszam": "JP601135M0L062BÉ4",
+            "keszlet": 1
+        },
+        {
             "nev": "601135 drapp C14 slim L mellény 58",
             "cikkszam": "JP601135M0L058D14",
             "keszlet": 2
@@ -7017,9 +7022,14 @@
             "keszlet": 1
         },
         {
+            "nev": "601135 farmer C13 slim L mellény 50",
+            "cikkszam": "JP601135M0L050C13",
+            "keszlet": 1
+        },
+        {
             "nev": "601135 farmer C13 slim L mellény 52",
             "cikkszam": "JP601135M0L052C13",
-            "keszlet": 2
+            "keszlet": 3
         },
         {
             "nev": "601135 farmer C13 slim L mellény 54",
@@ -7029,12 +7039,12 @@
         {
             "nev": "601135 farmer C13 slim L mellény 56",
             "cikkszam": "JP601135M0L056C13",
-            "keszlet": 2
+            "keszlet": 3
         },
         {
             "nev": "601135 farmer C13 slim L mellény 58",
             "cikkszam": "JP601135M0L058C13",
-            "keszlet": 2
+            "keszlet": 3
         },
         {
             "nev": "601135 farmer C13 slim L mellény 60",
@@ -7154,7 +7164,7 @@
         {
             "nev": "601135 sszürke C11 slim L mellény 48",
             "cikkszam": "JP601135M0L048C11",
-            "keszlet": 1
+            "keszlet": 2
         },
         {
             "nev": "601135 sszürke C11 slim L mellény 50",
@@ -7314,17 +7324,17 @@
         {
             "nev": "601135 szürke C2 slim L mellény 52",
             "cikkszam": "JP601135M0L052SC2",
-            "keszlet": 8
+            "keszlet": 7
         },
         {
             "nev": "601135 szürke C2 slim L mellény 54",
             "cikkszam": "JP601135M0L054SC2",
-            "keszlet": 11
+            "keszlet": 10
         },
         {
             "nev": "601135 szürke C2 slim L mellény 56",
             "cikkszam": "JP601135M0L056SC2",
-            "keszlet": 9
+            "keszlet": 8
         },
         {
             "nev": "601135 szürke C2 slim L mellény 58",
@@ -7404,12 +7414,12 @@
         {
             "nev": "601135 vbarna C7 slim L mellény 54",
             "cikkszam": "JP601135M0L054VB7",
-            "keszlet": 3
+            "keszlet": 2
         },
         {
             "nev": "601135 vbarna C7 slim L mellény 56",
             "cikkszam": "JP601135M0L056VB7",
-            "keszlet": 3
+            "keszlet": 2
         },
         {
             "nev": "601135 vbarna C7 slim L mellény 58",
@@ -7449,12 +7459,12 @@
         {
             "nev": "601135 vkék C3 slim L mellény 52",
             "cikkszam": "JP601135M0L052VK3",
-            "keszlet": 16
+            "keszlet": 15
         },
         {
             "nev": "601135 vkék C3 slim L mellény 54",
             "cikkszam": "JP601135M0L054VK3",
-            "keszlet": 18
+            "keszlet": 17
         },
         {
             "nev": "601135 vkék C3 slim L mellény 56",
@@ -7609,6 +7619,11 @@
         {
             "nev": "601135 vszürke C6 slim L mellény 58",
             "cikkszam": "JP601135M0L058VS6",
+            "keszlet": 1
+        },
+        {
+            "nev": "601135 vszürke C6 slim L mellény 60",
+            "cikkszam": "JP601135M0L060VS6",
             "keszlet": 1
         },
         {
