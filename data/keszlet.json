@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026.07.22. 12:01",
+    "lastUpdated": "2026.07.22. 14:05",
     "products": [
         {
             "nev": "1327 kszürke POC nadrág 26",
@@ -7699,12 +7699,12 @@
         {
             "nev": "601248 fekete POC öltöny 26",
             "cikkszam": "JP601248Ö0P026FEK",
-            "keszlet": 2
+            "keszlet": 0
         },
         {
             "nev": "601248 fekete POC öltöny 29",
             "cikkszam": "JP601248Ö0P029FEK",
-            "keszlet": 7
+            "keszlet": 0
         },
         {
             "nev": "601248 fekete slim L öltöny 52",
@@ -8587,6 +8587,11 @@
             "keszlet": 5
         },
         {
+            "nev": "R1500 fekete POC öltöny 26",
+            "cikkszam": "JPR15000Ö0P026FEK",
+            "keszlet": 2
+        },
+        {
             "nev": "R1500 fekete POC öltöny 28",
             "cikkszam": "JPR15000Ö0P028FEK",
             "keszlet": 3
@@ -8594,7 +8599,7 @@
         {
             "nev": "R1500 fekete POC öltöny 29",
             "cikkszam": "JPR15000Ö0P029FEK",
-            "keszlet": 5
+            "keszlet": 12
         },
         {
             "nev": "R1500 fekete slim L nadrág 44",
