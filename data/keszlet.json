@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026.09.14. 10:47",
+    "lastUpdated": "2026.09.14. 11:23",
     "products": [
         {
             "nev": "1327 kszürke POC nadrág 26",
@@ -11717,9 +11717,14 @@
             "keszlet": 0
         },
         {
+            "nev": "R1500 vkék slim L zakó 52",
+            "cikkszam": "JPR15000Z0L052VKÉ",
+            "keszlet": 1
+        },
+        {
             "nev": "R1500 vkék slim L zakó 54",
             "cikkszam": "JPR15000Z0L054VKÉ",
-            "keszlet": 0
+            "keszlet": -1
         },
         {
             "nev": "R1500 vkék slim L zakó 56",
