@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026.10.03. 16:51",
+    "lastUpdated": "2026.10.06. 11:28",
     "products": [
         {
             "nev": "1327 kszürke POC nadrág 26",
@@ -759,7 +759,7 @@
         {
             "nev": "1751 fekete POC nadrág 32",
             "cikkszam": "JP100574N0P032FEK",
-            "keszlet": 18
+            "keszlet": 16
         },
         {
             "nev": "1751 fekete POC nadrág 33",
@@ -799,7 +799,7 @@
         {
             "nev": "1751 fekete POC öltöny 28",
             "cikkszam": "JP100574Ö0P028FEK",
-            "keszlet": 53
+            "keszlet": 52
         },
         {
             "nev": "1751 fekete POC öltöny 29",
@@ -824,12 +824,12 @@
         {
             "nev": "1751 fekete POC öltöny 33",
             "cikkszam": "JP100574Ö0P033FEK",
-            "keszlet": 21
+            "keszlet": 20
         },
         {
             "nev": "1751 fekete POC öltöny 34",
             "cikkszam": "JP100574Ö0P034FEK",
-            "keszlet": 13
+            "keszlet": 12
         },
         {
             "nev": "1751 fekete POC öltöny 35",
@@ -1049,7 +1049,7 @@
         {
             "nev": "1751 fekete slim L nadrág 44",
             "cikkszam": "JP100574N0L044FEK",
-            "keszlet": 10
+            "keszlet": 9
         },
         {
             "nev": "1751 fekete slim L nadrág 46",
@@ -1059,17 +1059,17 @@
         {
             "nev": "1751 fekete slim L nadrág 48",
             "cikkszam": "JP100574N0L048FEK",
-            "keszlet": 55
+            "keszlet": 49
         },
         {
             "nev": "1751 fekete slim L nadrág 50",
             "cikkszam": "JP100574N0L050FEK",
-            "keszlet": 66
+            "keszlet": 68
         },
         {
             "nev": "1751 fekete slim L nadrág 52",
             "cikkszam": "JP100574N0L052FEK",
-            "keszlet": 34
+            "keszlet": 33
         },
         {
             "nev": "1751 fekete slim L nadrág 54",
@@ -1089,7 +1089,7 @@
         {
             "nev": "1751 fekete slim L nadrág 60",
             "cikkszam": "JP100574N0L060FEK",
-            "keszlet": 10
+            "keszlet": 9
         },
         {
             "nev": "1751 fekete slim L nadrág 62",
@@ -1109,47 +1109,47 @@
         {
             "nev": "1751 fekete slim L öltöny 44",
             "cikkszam": "JP100574Ö0L044FEK",
-            "keszlet": 2
+            "keszlet": -1
         },
         {
             "nev": "1751 fekete slim L öltöny 46",
             "cikkszam": "JP100574Ö0L046FEK",
-            "keszlet": 10
+            "keszlet": 9
         },
         {
             "nev": "1751 fekete slim L öltöny 48",
             "cikkszam": "JP100574Ö0L048FEK",
-            "keszlet": 30
+            "keszlet": 27
         },
         {
             "nev": "1751 fekete slim L öltöny 50",
             "cikkszam": "JP100574Ö0L050FEK",
-            "keszlet": 30
+            "keszlet": 27
         },
         {
             "nev": "1751 fekete slim L öltöny 52",
             "cikkszam": "JP100574Ö0L052FEK",
-            "keszlet": 32
+            "keszlet": 31
         },
         {
             "nev": "1751 fekete slim L öltöny 54",
             "cikkszam": "JP100574Ö0L054FEK",
-            "keszlet": 40
+            "keszlet": 38
         },
         {
             "nev": "1751 fekete slim L öltöny 56",
             "cikkszam": "JP100574Ö0L056FEK",
-            "keszlet": 31
+            "keszlet": 29
         },
         {
             "nev": "1751 fekete slim L öltöny 58",
             "cikkszam": "JP100574Ö0L058FEK",
-            "keszlet": 41
+            "keszlet": 40
         },
         {
             "nev": "1751 fekete slim L öltöny 60",
             "cikkszam": "JP100574Ö0L060FEK",
-            "keszlet": 25
+            "keszlet": 23
         },
         {
             "nev": "1751 fekete slim L öltöny 62",
@@ -1219,7 +1219,7 @@
         {
             "nev": "1751 fekete slim M nadrág 46",
             "cikkszam": "JP100574N0M046FEK",
-            "keszlet": 1
+            "keszlet": 2
         },
         {
             "nev": "1751 fekete slim M nadrág 48",
@@ -1259,7 +1259,7 @@
         {
             "nev": "1751 fekete slim M öltöny 46",
             "cikkszam": "JP100574Ö0M046FEK",
-            "keszlet": 18
+            "keszlet": 17
         },
         {
             "nev": "1751 fekete slim M öltöny 48",
@@ -1274,12 +1274,12 @@
         {
             "nev": "1751 fekete slim M öltöny 52",
             "cikkszam": "JP100574Ö0M052FEK",
-            "keszlet": 26
+            "keszlet": 25
         },
         {
             "nev": "1751 fekete slim M öltöny 54",
             "cikkszam": "JP100574Ö0M054FEK",
-            "keszlet": 23
+            "keszlet": 22
         },
         {
             "nev": "1751 fekete slim M öltöny 56",
@@ -1299,6 +1299,11 @@
         {
             "nev": "1751 fekete slim M zakó 44",
             "cikkszam": "JP100574Z0M044FEK",
+            "keszlet": 0
+        },
+        {
+            "nev": "1751 fekete slim M zakó 46",
+            "cikkszam": "JP100574Z0M046FEK",
             "keszlet": 0
         },
         {
@@ -1324,7 +1329,7 @@
         {
             "nev": "1751 fekete slim XL nadrág 102",
             "cikkszam": "JP100574NXL102FEK",
-            "keszlet": 11
+            "keszlet": 12
         },
         {
             "nev": "1751 fekete slim XL nadrág 106",
@@ -1369,12 +1374,12 @@
         {
             "nev": "1751 fekete slim XL öltöny 102",
             "cikkszam": "JP100574ÖXL102FEK",
-            "keszlet": 17
+            "keszlet": 15
         },
         {
             "nev": "1751 fekete slim XL öltöny 106",
             "cikkszam": "JP100574ÖXL106FEK",
-            "keszlet": 6
+            "keszlet": 5
         },
         {
             "nev": "1751 fekete slim XL öltöny 110",
@@ -1414,7 +1419,7 @@
         {
             "nev": "1751 fekete slim XL öltöny 98",
             "cikkszam": "JP100574ÖXL098FEK",
-            "keszlet": 37
+            "keszlet": 35
         },
         {
             "nev": "1751 fekete slim XL zakó 102",
@@ -1874,7 +1879,7 @@
         {
             "nev": "1751 skék slim L öltöny 46",
             "cikkszam": "JP100574Ö0L046SKÉ",
-            "keszlet": -2
+            "keszlet": -3
         },
         {
             "nev": "1751 skék slim L öltöny 48",
@@ -3654,7 +3659,7 @@
         {
             "nev": "198 bézs POC nadrág 30",
             "cikkszam": "JP500198N0P030BÉZ",
-            "keszlet": 4
+            "keszlet": 2
         },
         {
             "nev": "198 bézs POC nadrág 31",
@@ -3814,7 +3819,7 @@
         {
             "nev": "198 bézs slim L nadrág 50",
             "cikkszam": "JP500198N0L050BÉZ",
-            "keszlet": 1
+            "keszlet": 0
         },
         {
             "nev": "198 bézs slim L nadrág 52",
@@ -4769,7 +4774,7 @@
         {
             "nev": "198 skék POC nadrág 31",
             "cikkszam": "JP500198N0P031SKÉ",
-            "keszlet": 15
+            "keszlet": 14
         },
         {
             "nev": "198 skék POC nadrág 32",
@@ -5364,7 +5369,7 @@
         {
             "nev": "198 sszürke slim L nadrág 46",
             "cikkszam": "JP500198N0L046SSZ",
-            "keszlet": 3
+            "keszlet": 5
         },
         {
             "nev": "198 sszürke slim L nadrág 48",
@@ -5419,12 +5424,12 @@
         {
             "nev": "198 sszürke slim L öltöny 48",
             "cikkszam": "JP500198Ö0L048SSZ",
-            "keszlet": 22
+            "keszlet": 26
         },
         {
             "nev": "198 sszürke slim L öltöny 50",
             "cikkszam": "JP500198Ö0L050SSZ",
-            "keszlet": 9
+            "keszlet": 13
         },
         {
             "nev": "198 sszürke slim L öltöny 52",
@@ -5439,7 +5444,7 @@
         {
             "nev": "198 sszürke slim L öltöny 56",
             "cikkszam": "JP500198Ö0L056SSZ",
-            "keszlet": 12
+            "keszlet": 11
         },
         {
             "nev": "198 sszürke slim L öltöny 58",
@@ -5499,27 +5504,27 @@
         {
             "nev": "198 sszürke slim M öltöny 48",
             "cikkszam": "JP500198Ö0M048SSZ",
-            "keszlet": 15
+            "keszlet": 17
         },
         {
             "nev": "198 sszürke slim M öltöny 50",
             "cikkszam": "JP500198Ö0M050SSZ",
-            "keszlet": 14
+            "keszlet": 15
         },
         {
             "nev": "198 sszürke slim M öltöny 52",
             "cikkszam": "JP500198Ö0M052SSZ",
-            "keszlet": 7
+            "keszlet": 8
         },
         {
             "nev": "198 sszürke slim M öltöny 54",
             "cikkszam": "JP500198Ö0M054SSZ",
-            "keszlet": 2
+            "keszlet": 3
         },
         {
             "nev": "198 sszürke slim M öltöny 56",
             "cikkszam": "JP500198Ö0M056SSZ",
-            "keszlet": 7
+            "keszlet": 6
         },
         {
             "nev": "198 sszürke slim M öltöny 58",
@@ -5529,7 +5534,7 @@
         {
             "nev": "198 sszürke slim M zakó 58",
             "cikkszam": "JP500198Z0M058SSZ",
-            "keszlet": 0
+            "keszlet": 1
         },
         {
             "nev": "198 sszürke slim XL nadrág 122",
@@ -5594,7 +5599,7 @@
         {
             "nev": "198 vkék POC nadrág 27",
             "cikkszam": "JP500198N0P027VKÉ",
-            "keszlet": 4
+            "keszlet": 3
         },
         {
             "nev": "198 vkék POC nadrág 28",
@@ -5704,7 +5709,7 @@
         {
             "nev": "198 vkék slim L nadrág 48",
             "cikkszam": "JP500198N0L048VKÉ",
-            "keszlet": 7
+            "keszlet": 6
         },
         {
             "nev": "198 vkék slim L nadrág 50",
@@ -6009,7 +6014,7 @@
         {
             "nev": "198 vszürke slim L nadrág 50",
             "cikkszam": "JP500198N0L050VSZ",
-            "keszlet": 1
+            "keszlet": 0
         },
         {
             "nev": "198 vszürke slim L nadrág 52",
@@ -6584,12 +6589,12 @@
         {
             "nev": "206701 skék slim L zakó 56",
             "cikkszam": "JP206701Z0L056SKÉ",
-            "keszlet": 57
+            "keszlet": 56
         },
         {
             "nev": "206701 skék slim L zakó 58",
             "cikkszam": "JP206701Z0L058SKÉ",
-            "keszlet": 76
+            "keszlet": 75
         },
         {
             "nev": "206701 skék slim L zakó 60",
@@ -6599,7 +6604,7 @@
         {
             "nev": "206701 skék slim L zakó 62",
             "cikkszam": "JP206701Z0L062SKÉ",
-            "keszlet": 45
+            "keszlet": 44
         },
         {
             "nev": "206701 skék slim L zakó 64",
@@ -6699,12 +6704,12 @@
         {
             "nev": "206701 sszürke slim L zakó 62",
             "cikkszam": "JP206701Z0L062SSZ",
-            "keszlet": 34
+            "keszlet": 33
         },
         {
             "nev": "206701 sszürke slim L zakó 64",
             "cikkszam": "JP206701Z0L064SSZ",
-            "keszlet": 39
+            "keszlet": 38
         },
         {
             "nev": "206701 tégla slim L zakó 58",
@@ -6829,7 +6834,7 @@
         {
             "nev": "206701 vbarna C7 slim L zakó 64",
             "cikkszam": "JP206701Z0L064VB7",
-            "keszlet": 2
+            "keszlet": 1
         },
         {
             "nev": "206701 vbézs POC zakó 26",
@@ -7269,7 +7274,7 @@
         {
             "nev": "206702 farmer slim L zakó 52",
             "cikkszam": "JP206702Z0L052T35",
-            "keszlet": 14
+            "keszlet": 13
         },
         {
             "nev": "206702 farmer slim L zakó 54",
@@ -7424,7 +7429,7 @@
         {
             "nev": "206702 fekete slim L zakó 64",
             "cikkszam": "JP206702Z0L064T43",
-            "keszlet": 0
+            "keszlet": -1
         },
         {
             "nev": "206702 fekete slim L zakó 66",
@@ -7449,7 +7454,7 @@
         {
             "nev": "206702 fekete slim XL zakó 114",
             "cikkszam": "JP206702ZXL114T43",
-            "keszlet": 10
+            "keszlet": 9
         },
         {
             "nev": "206702 fekete slim XL zakó 118",
@@ -7479,7 +7484,7 @@
         {
             "nev": "206702 karamell slim L zakó 52",
             "cikkszam": "JP206702Z0L052X02",
-            "keszlet": 7
+            "keszlet": 6
         },
         {
             "nev": "206702 karamell slim L zakó 54",
@@ -7529,7 +7534,7 @@
         {
             "nev": "206702 kávé slim L zakó 52",
             "cikkszam": "JP206702Z0L052T44",
-            "keszlet": 6
+            "keszlet": 5
         },
         {
             "nev": "206702 kávé slim L zakó 54",
@@ -7579,7 +7584,7 @@
         {
             "nev": "206702 kkék slim L zakó 52",
             "cikkszam": "JP206702Z0L052T37",
-            "keszlet": 14
+            "keszlet": 13
         },
         {
             "nev": "206702 kkék slim L zakó 54",
@@ -7769,7 +7774,7 @@
         {
             "nev": "206702 vkék slim L zakó 52",
             "cikkszam": "JP206702Z0L052T38",
-            "keszlet": 13
+            "keszlet": 12
         },
         {
             "nev": "206702 vkék slim L zakó 54",
@@ -7884,7 +7889,7 @@
         {
             "nev": "206702 vszürke slim L zakó 52",
             "cikkszam": "JP206702Z0L052X16",
-            "keszlet": 15
+            "keszlet": 14
         },
         {
             "nev": "206702 vszürke slim L zakó 54",
@@ -7969,7 +7974,7 @@
         {
             "nev": "206702 zöld slim L zakó 52",
             "cikkszam": "JP206702Z0L052T32",
-            "keszlet": 4
+            "keszlet": 3
         },
         {
             "nev": "206702 zöld slim L zakó 54",
@@ -11044,12 +11049,12 @@
         {
             "nev": "COAT02 fekete slim L kabát 48",
             "cikkszam": "JPCOAT02K0L048FEK",
-            "keszlet": 11
+            "keszlet": 10
         },
         {
             "nev": "COAT02 fekete slim L kabát 50",
             "cikkszam": "JPCOAT02K0L050FEK",
-            "keszlet": 9
+            "keszlet": 8
         },
         {
             "nev": "COAT02 fekete slim L kabát 52",
@@ -13474,7 +13479,7 @@
         {
             "nev": "Stefano steppelt dzseki skék 70620 58",
             "cikkszam": "ST706200D0L058SKÉ",
-            "keszlet": 9
+            "keszlet": 8
         },
         {
             "nev": "Stefano steppelt dzseki skék 70620 60",
