@@ -1,7 +1,7 @@
 @echo off
 
 echo =====================================
-echo NaturaSoft keszlet frissitese
+echo Keszlet frissitese a Raktarkezelobol
 echo =====================================
 echo.
 
@@ -17,7 +17,7 @@ if errorlevel 1 (
 echo.
 echo GitHub frissitese...
 
-git add data/keszlet.json
+git add data/keszlet.json index.html css/style.css js/script.js python/frissites.py Keszletfrissito.bat
 
 git diff --cached --quiet
 
